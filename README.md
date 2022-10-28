@@ -19,4 +19,7 @@ O Orange tech + é um projeto para você que deseja aprender do zero desenvolvim
     - Entendendo Objetos e classes
     - Exercicios
 
-- Arrays e laços de repetição
+- Arrays e estruturas de repetição
+
+- Importação e exportação
+    - Desvendando funções "gets" e "print"
