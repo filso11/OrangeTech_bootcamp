@@ -12,3 +12,8 @@ function print(text) {
 }
 
 module.exports = { gets, print };
+
+
+while (condition) {
+    
+}

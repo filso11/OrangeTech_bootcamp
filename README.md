@@ -23,3 +23,8 @@ O Orange tech + é um projeto para você que deseja aprender do zero desenvolvim
 
 - Importação e exportação
     - Desvendando funções "gets" e "print"
+
+- Criando um projeto com HTML/CSS para Listagem de Pokemon
+    - Configurações gerais do projeto
+    - Estilização de listagem de pokemon
+    - Dominando o Protocolo HTTP e Integrando com a PokeAPI
